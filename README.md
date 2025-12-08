@@ -2,10 +2,9 @@
 
  # 👨‍💻 Lucas Cardoso 
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor De Sistemas `**
 
-Me chamo Lucas Cardoso , tenho 28 anos . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF, e estou cursando o Tecnico em Desenvolvimento de Sistemas no Senac - DF . Sou apaixonada por tecnologia.
-
+Me chamo Lucas Cardoso , tenho 28 anos . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF, e estou cursando o Tecnico em Desenvolvimento de Sistemas no Senac - DF . Sou apaixonado por tecnologia e movido pela criação de soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, combinando a teoria acadêmica com a prática técnica.
 
 
 ---
@@ -34,3 +33,4 @@ Me chamo Lucas Cardoso , tenho 28 anos . Atualmente, estou cursando Análise e D
 
 <br/>
 <br/>
+
