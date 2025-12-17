@@ -130,7 +130,8 @@ Me chamo Lucas Cardoso , tenho 28 anos . Atualmente, estou cursando Análise e D
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
 />
+
 <br/>
 <br/>
