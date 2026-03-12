@@ -49,7 +49,7 @@ Me chamo Lucas Cardoso , tenho 28 anos . Atualmente, estou cursando Análise e D
     align="left" 
     alt="Mysql" 
     title="Mysql"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
  />
