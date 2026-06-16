@@ -4,7 +4,7 @@
 
 **`Desenvolvedor De Sistemas `**
 
-Me chamo Lucas Cardoso , tenho 29 anos . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF, e estou cursando o Tecnico em Desenvolvimento de Sistemas no Senac - DF . Sou apaixonado por tecnologia e movido pela criação de soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, combinando a teoria acadêmica com a prática técnica.
+Me chamo Lucas, tenho 29 anos . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF, e estou cursando o Tecnico em Desenvolvimento de Sistemas no Senac - DF . Sou apaixonado por tecnologia e movido pela criação de soluções inovadoras. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software, combinando a teoria acadêmica com a prática técnica.
 
 
 ---
